@@ -1,3 +1,3 @@
-# Measuring the composition and availability of human resources for health by sex for 204 countries and territories from 1990 to 2022
+This repository contains cleaned code produced by IHME's Health Systems team that was used to generate results for the publication on human resources for health.
 
-Source code for producing estimates in capstone project is available here.  
+[Measuring the availability of human resources for health and its relationship to universal health coverage for 204 countries and territories from 1990 to 2019: a systematic analysis for the Global Burden of Disease Study 2019](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00532-3/fulltext)
